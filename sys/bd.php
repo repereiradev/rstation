@@ -1,0 +1,1 @@
+<?php $conn = new mysqli("localhost","root","xd","xd","3308"); ?>
